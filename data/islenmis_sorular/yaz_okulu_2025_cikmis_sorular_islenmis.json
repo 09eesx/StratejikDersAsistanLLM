@@ -1,0 +1,380 @@
+[
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_2",
+    "SORU": "Toplumsal düzenin köklü biçimde, gerekirse devrim yoluyla değiştirilmesini, üretim araçları üzerindeki özel mülkiyet hakkının devlete geçmesini ve proleterlerin egemen olduğu bir devlet düzenini hedefleyen düşünce sistemi aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Ütopizm",
+      "B": "Reformist sosyalizm",
+      "C": "Liberalizm",
+      "D": "Neo liberalizm",
+      "E": "Bilimsel sosyalizm"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyalizm",
+        "Devrim",
+        "Proleter Egemenliği"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_3",
+    "SORU": "Sosyal politikanın uluslararası araçlarından en önemlisi aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Birleşmiş Milletler Tarım ve Gıda Örgütü",
+      "B": "Dünya Sağlık Örgütü",
+      "C": "Avrupa Birliği",
+      "D": "Uluslararası Çalışma Örgütü",
+      "E": "Ekonomik İşbirliği ve Kalkınma Teşkilatı"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        " Uluslararası Organizasyon"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_4",
+    "SORU": "Aşağıdakilerden hangisi kişi bakımından sosyal politikanın kapsamında değildir?",
+    "SIKLAR": {
+      "A": "Kadınlar",
+      "B": "İşsizler",
+      "C": "Kamu görevlileri",
+      "D": "İşverenler",
+      "E": "İşçiler"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Kişisel Kategoriler"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_5",
+    "SORU": "Piyasa mekanizması ve fiyatlar sistemini her türlü ekonomik ve sosyal sorunu kendiliğinden çözümleyen “gizli bir el” işlevi olarak gören düşünce yapısı aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Sosyalizm",
+      "B": "Şovenizm",
+      "C": "Totaliterizm",
+      "D": "Komünizm",
+      "E": "Liberalizm"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Fiyat Mekanizması",
+        "Piyasa Ekonomisi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_6",
+    "SORU": "Asgari geçim düşüncesine dayanan ve kişilerin ya da hane halklarının asgari geçim düzeyinin altında olma durumunu ifade eden yoksulluk türü aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Mutlak yoksulluk",
+      "B": "İnsani yoksulluk",
+      "C": "Objektif yoksulluk",
+      "D": "Toplumsal yoksulluk",
+      "E": "Göreli yoksulluk"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Yoksulluk",
+        "Mutlak yoksulluk",
+        "İnsani yoksulluk",
+        "Objektif yoksulluk",
+        "Toplumsal yoksulluk",
+        "Göreli yoksulluk"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_7",
+    "SORU": "Kişisel gelir dağılımı eşitsizliğinin ölçülmesi için kullanılan eğriye ne ad verilir?",
+    "SIKLAR": {
+      "A": "Laffer eğrisi",
+      "B": "Lorenz eğrisi",
+      "C": "Philips eğrisi",
+      "D": "Farksızlık eğrisi",
+      "E": "Beveridge eğrisi"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Statü",
+        "İktisadi Politika"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_8",
+    "SORU": "1802 yılında İngiltere’de dokuma sanayiinde kabul edilen kanun çalışan çocukları öncelikle hangi alanda korumaya çalışmıştır?",
+    "SIKLAR": {
+      "A": "Yıllık ücret",
+      "B": "Fesihler",
+      "C": "Hafta tatili",
+      "D": "İş sağlığı ve güvenliği",
+      "E": "Günlük çalışma süreleri"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Çocuk Hakları",
+        "İş Sağlığı ve Güvenliği"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_10",
+    "SORU": "Aile ödenekleri sigortasından sağlanan temel yardım aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Doğum parası",
+      "B": "Gıda, giyim, çocuk bezi gibi aynî yardımlar",
+      "C": "Çocuk bakım hizmeti",
+      "D": "Kira yardımı",
+      "E": "Çocuk parası"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Sigorta"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_11",
+    "SORU": "Bir arada yaşama kültürünün bir ürünü olarak aidiyet duygusu üzerinden kırsal kesimde ve kentlerin gecekondu bölgelerinde komşuluk ve akrabalığa bağlı olarak uygulanan geleneksel sosyal güvenlik yöntemi aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Bireysel tasarruf",
+      "B": "Dini yardımlar",
+      "C": "Tanıma bilme faktörüne bağlı yardımlaşma",
+      "D": "Aile içi yardımlaşma",
+      "E": "Kurumsallaşmış sosyal yardımlar"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Aidiyet",
+        "Sosyal Güvenlik",
+        "Komşuluk",
+        "Akrabalık",
+        "Geleneksel Sosyal Yardımlar"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_12",
+    "SORU": "Türkiye'de analık sigortasından geçici iş göremezlik ödeneği verilme süresi kural olarak toplam kaç haftadır?",
+    "SIKLAR": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "24",
+      "E": "30"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Sigorta",
+        "İş Göremezlik Ödeneği"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_13",
+    "SORU": "Güney Afrika’da hükümet tarafından 1990’ların ortalarına kadar zencilere karşı uygulanan ayrımcılık, ortaya çıkış biçimine göre ayrımcılık türlerinden hangisine örnektir?",
+    "SIKLAR": {
+      "A": "Dolayısıyla ayrımcılık",
+      "B": "Ters yönlü ayrımcılık",
+      "C": "Sistematik ayrımcılık",
+      "D": "Örtülü ayrımcılık",
+      "E": "Doğrudan ayrımcılık"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Ters yönlü ayrımcılık"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_14",
+    "SORU": "Toplumsal yaşamda dil, din, ırk, etnik köken, cinsiyet, cinsel yönelim, engellilik ve yaş gibi nesnel olmayan faktörler temel alınarak birey veya gruplara yöneltilen farklı davranış ve uygulamalara ne ad verilir",
+    "SIKLAR": {
+      "A": "Ayrımcılık",
+      "B": "Ön yargı",
+      "C": "Sosyal dışlanma",
+      "D": "Subjektiflik",
+      "E": "Eşitsizlik"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Nesnel Olmayan Faktörler",
+        "Ayrımcılık",
+        "Ön Yargı",
+        "Sosyal Dışlandırma",
+        "Subjektiflik",
+        "Eşitsizlik"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_15",
+    "SORU": "Sosyal dışlanma sorununa ilk defa açık bir biçimde yer veren uluslararası anlaşma aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Maastricht Anlaşması",
+      "B": "Nice Anlaşması",
+      "C": "Lizbon Anlaşması",
+      "D": "Amsterdam Anlaşması",
+      "E": "Roma Anlaşması"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Dışlama",
+        "İnternational Agreement"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_16",
+    "SORU": "21. yüzyılın ilk on yılında dünya nüfusunun yalnızca yüzde ------- yeterli sosyal güvenlik garantisine sahiptir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+    "SIKLAR": {
+      "A": "50'si",
+      "B": "40'ı",
+      "C": "30'u",
+      "D": "20'si",
+      "E": "10'u"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Güvenlik",
+        "Nüfus"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_17",
+    "SORU": "4857 sayılı İş Kanununa göre, 400 işçinin çalıştığı kamuya ait bir işyerinde en az kaç eski hükümlü çalıştırma zorunluluğu bulunmaktadır?",
+    "SIKLAR": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8",
+      "E": "10"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "İş Kanunu"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_18",
+    "SORU": "Küreselleşmeyi, nimetleri ve külfetleri; fırsatları ve tehditleri ve nihayet olumlu ve olumsuz sonuçları ile birlikte değerlendirerek kaçınılmaz teslim olunması gereken bir süreç olarak değil, ortaya çıkaracağı olumsuz sonuçların giderilebilmesi için müdahale edilmesi gereken bir süreç olarak gören küreselleşme yaklaşımı aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Dönüşümcüler",
+      "B": "Aşırı küreselleşmeciler",
+      "C": "Aşırı şüpheciler",
+      "D": "Aşırı değişimciler",
+      "E": "Şüpheciler"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Küreselleşme",
+        "Müdahale",
+        "Tehdid",
+        "Fırsat"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_19",
+    "SORU": "Çocukların korunmasına yönelik sosyal politikalar kapsamında genel kural olarak kaç yaşını doldurmamış çocukların çalıştırılmaları yasaktır?",
+    "SIKLAR": {
+      "A": "14",
+      "B": "15",
+      "C": "16",
+      "D": "17",
+      "E": "18"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Çocuk Korunması",
+        "Sosyal Politika",
+        "İş Yasakları"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_20",
+    "SORU": "“Herkes İçin Fırsatlar Yaratan Adil Bir Küreselleşme Raporu” hangi kuruluş tarafından hazırlanmıştır?",
+    "SIKLAR": {
+      "A": "Avrupa Sendikalar Konfederasyonu",
+      "B": "Dünya Bankası",
+      "C": "Uluslararası Çalışma Örgütü",
+      "D": "Dünya Sağlık Örgütü",
+      "E": "Birleşmiş Milletler"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Küreselleşme",
+        "Adil",
+        "Sosyal Politika"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2025_cikmis_sorular_21",
+    "SORU": "Türkiye’de engelli çalıştırılma zorunluluğu ilk olarak hangi kanunla getirilmiştir?",
+    "SIKLAR": {
+      "A": "818 sayılı Borçlar Kanunu",
+      "B": "854 sayılı Deniz İş Kanunu",
+      "C": "931 sayılı İş Kanunu",
+      "D": "1475 sayılı İş Kanunu",
+      "E": "5953 Basın İş Kanunu"
+    },
+    "CEVAP": "Bilinmiyor",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Engelli Çalıştırılma Zorunluluğu",
+        "Sosyal Politika",
+        "İş Kanunu"
+      ]
+    }
+  }
+]

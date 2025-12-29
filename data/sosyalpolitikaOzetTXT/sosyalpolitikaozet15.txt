@@ -1,0 +1,59 @@
+# Ünite 7: Özel Olarak Korunması Gereken Gruplar (Dezavantajlı Gruplar)
+
+## Kavramsal Açıdan Özel Olarak Korunması Gereken Gruplar
+
+Bu kavram yerine literatürde; sosyal risk grupları, dezavantajlı gruplar, handikaplı gruplar gibi kavramlar kullanılır. Bu gruplar; çoğunluğa göre zayıf konumda olan, korunmaya/bakıma muhtaç, eğitim, istihdam ve sağlık gibi alanlarda sorun yaşayan, dışlanma riski taşıyan kişilerdir.
+**Gruplar:** Çocuklar, gençler, yaşlılar, engelliler, göçmenler, azınlıklar, eski hükümlüler, kadınlar, tek ebeveynli aileler ve yoksullar.
+
+---
+
+## Çalışma Yaşamında Özel Olarak Korunması Gereken Belli Başlı Gruplar
+
+### Kadınlar
+
+* **Tarihsel Süreç:** Sanayi Devrimi ile çalışma yaşamına girdiler. I. Dünya Savaşı'nda tüm kollara yayıldılar. 1929 Bunalımı olumsuz etkiledi. II. Dünya Savaşı sonrası katılım arttı.
+* **Küreselleşme ve Neoliberalizm:** 1980 sonrası esnekleşme ve özelleştirme, kadınların "daha kötü koşullarda" çalışmasına ve kamudaki kadın sayısının azalmasına yol açtı.
+* **İstatistikler (ILO 2013):** Dünyada kadının işgücüne katılımı %50.3 (Erkek: %76.6).
+* **Türkiye Verileri (2014):** İşgücüne katılım %30.3. Sektörel dağılım: %33 Tarım, %17.1 Sanayi, %49.9 Hizmet. İşsizlik kadınlarda %11.9 (Erkek: %9.3).
+* **Uluslararası Mevzuat:** İnsan Hakları Evrensel Bildirgesi, ILO (Analığın Korunması, Gece Çalışması, Ücret Eşitliği, Ayrımcılık sözleşmeleri), Avrupa Konseyi (1996 Sosyal Şart), AB (Roma Antlaşması 119. md, Maastricht).
+* **Türkiye Mevzuatı:** 1930 Umumi Hıfzıssıhha Kanunu (ilk), 1936 İş Kanunu, 1961/1982 Anayasaları, 4857 sayılı İş Kanunu (en ayrıntılısı). Ayrıca: Borçlar Kanunu, İSG Kanunu, TCK.
+* **Not:** Türk hukukunda "ebeveyn izni" adı altında bir düzenleme yoktur ancak DMK'da benzer izinler mevcuttur.
+
+### Çocuklar - Gençler
+
+* **Tanım:** ILO asgari yaşı 15 kabul eder. BM ve Avrupa'da 15-24 yaş arası genç işçi sayılır.
+* **Tarihsel Süreç:** Sanayi Devrimi ile kötü koşullarda çalışma başladı. 1890 Berlin Konferansı ilk düzenleme denemeleridir. 1980 sonrası çocuk işçiliği tekrar artışa geçmiştir.
+* **Uluslararası Mevzuat:** BM Çocuk Hakları Sözleşmesi, ILO (Asgari yaş, gece çalışması, sağlık muayenesi sözleşmeleri). ILO 1992'de IPEC (Çocuk İşçiliğinin Sona Erdirilmesi Programı) başlattı.
+* **Türkiye Mevzuatı:** Anayasa 50. md (yaşa uygun iş). 4857 sayılı İş Kanunu 71. md: 15 yaş altı yasak; 14 yaşını dolduran/ilköğretimi bitirenler için "hafif işler" serbest. 2015 değişikliği ile 14 yaş altı; sanat, kültür, reklam işlerinde (izinle) çalışabilir.
+* **Haklar:** Yıllık ücretli izin en az 20 gündür. Çıraklar 3308 sayılı Kanun'a tabidir. Türkiye 1992'de IPEC'e katılmıştır.
+
+### Yaşlılar
+
+* **Tanım:** 65 yaş başlangıç kabul edilir. Sosyal politikaları etkileyen faktörler: Nüfus artışı, aile yapısının değişimi, işgücü arzının azalması.
+* **Politikalar:** Yaşlılık sigortası, yoksul yaşlıya aylık bağlanması, kurumsal bakım (huzurevi, bakımevi, yaşlı köyleri).
+* **Yeni Eğilimler:** Kurumsal bakımdan "Evde Bakım" hizmetlerine (yemek servisi, takip, onarım) geçiş.
+* **Türkiye'de Yapılanma:** 2828 sayılı Kanun (1983) ile SHÇEK kuruldu. 2011'de Aile ve Sosyal Politikalar Bakanlığı'na devredildi. Güncel olarak: Aile ve Sosyal Hizmetler Bakanlığı (Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü).
+* **Emeklilik:** 4632 sayılı Bireysel Emeklilik Kanunu (2001) ek garanti sağlar.
+
+### Engelliler
+
+* **Tanım:** Sosyal rolünü yerine getirmesi engellenen birey. Dünya nüfusunun %15'i engellidir.
+* **İstihdam Politikaları:** Tıbbi/mesleki rehabilitasyon, Kota sistemi, Tahsis yöntemi, vergi muafiyeti, korumalı işyerleri, tele-çalışma teşvikleri.
+* **Uluslararası Mevzuat:** 1975 Engelli Hakları Bildirgesi, 2006 Engelli Hakları Sözleşmesi, ILO 1983 (Sözleşme No: 159).
+* **Türkiye Mevzuatı:** İlk zorunluluk 1967 Deniz İş Kanunu. Kota sistemi 1967 (931 s.k) ve 1971 (1475 s.k). 1976'da "Engelli Aylığı" (2022 s.k) başladı.
+* **Yönetim:** Aile ve Sosyal Hizmetler Bakanlığı bünyesinde yürütülür.
+
+### Eski Hükümlüler
+
+* **Tanım:** Cezasından sonra hükümlülük niteliği kalkan kişi.
+* **Sorunlar:** İşveren ön yargısı ve işsizlik. İnfaz kurumunda eğitim ve rehabilitasyon önemlidir.
+* **Türkiye Uygulaması:** 4857 s. İş Kanunu 30. md uyarınca **sadece kamu sektöründe %2 kota** zorunluluğu vardır. İşe yerleştirme İŞKUR aracılığıyla yapılır.
+
+### Göçmenler
+
+* **Tanım:** Başka ülkede 1+ yıl kalan kişi. Mülteci (zulüm korkusu olan), Sığınmacı (statü bekleyen), Beyin Göçü (nitelikli işgücü göçü).
+* **Uluslararası Mevzuat:** 1951 Cenevre Sözleşmesi, ILO (1949 ve 1975 sözleşmeleri), Avrupa Konseyi (1977 Göçmen İşçilerin Statüsü Sözleşmesi).
+* **AB Politikası:** 1992 Maastricht ile "Birlik Vatandaşlığı" (iç dolaşım serbest, dış göç kısıtlı).
+* **Türkiye Mevzuatı:** 5543 sayılı İskân Kanunu (soydaş göçmenler). 2003 Yabancıların Çalışma İzinleri Hakkındaki Kanun (YÇİHK): Süreli, süresiz ve bağımsız izinler.
+* **Sosyal Haklar:** 1986 Sosyal Yardımlaşma Kanunu (1989 değişikliği) ile sığınmacılara yoksulluk yardımı yolu açılmıştır. Kızılay da destek verir.
+

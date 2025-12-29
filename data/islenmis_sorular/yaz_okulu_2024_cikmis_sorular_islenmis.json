@@ -1,0 +1,378 @@
+[
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_2",
+    "SORU": "Mülkiyet ve egemenliğin birbirine katıldığı, siyasal iktidar ile ekonomik iktidarın aynı kişide birleştiği ve dönemin üretim yapısı kadar yönetim yapısını da ifade eden kavram aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Korporasyon",
+      "B": "Feodalite",
+      "C": "Merkezi krallık",
+      "D": "Otokrasi",
+      "E": "Aristokrasi"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Serf Mülkiyet Sistemi",
+        "Mülkiyet Egemenliği"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_3",
+    "SORU": "Liberalizmin ekonomik ve sosyal etkilerine karşı olarak ortaya çıkan ve liberal düşüncenin temelinde yer alan bireyciliğe karşı, toplumun bireye üstünlüğü düşüncesini geliştiren iktisadi düşünce aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Neo Liberalizm",
+      "B": "Fizyokrasi",
+      "C": "Anarşizm",
+      "D": "Sosyalizm",
+      "E": "Merkantilizm"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Kolektivizm",
+        "Toplumun Bireye Üstünlüğü"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_4",
+    "SORU": "Sosyal politikanın uluslararası araçlarından en önemlisi aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Birleşmiş Milletler Tarım ve Gıda Örgütü",
+      "B": "Ekonomik İşbirliği ve Kalkınma Teşkilatı",
+      "C": "Avrupa Birliği",
+      "D": "Uluslararası Çalışma Örgütü",
+      "E": "Dünya Sağlık Örgütü"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Uluslararası İlişkiler",
+        "Beşinci Bireysel",
+        "Organizasyon"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_5",
+    "SORU": "Aşağıdakilerden hangisi sosyal politikanın kollektif kendi kendine yardım araçlarından biri değildir?",
+    "SIKLAR": {
+      "A": "Bakanlıklar",
+      "B": "Sendikalar",
+      "C": "Kooperatifler",
+      "D": "Vakıflar",
+      "E": "Dernekler"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Kollektif Kendine Yardım",
+        "Sosyal Politika"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_6",
+    "SORU": "Çalışan ücretlerinin standart para yerine, mal veya para yerine geçen kâğıt kuponlar şeklinde ödendiği sisteme ne ad verilir?",
+    "SIKLAR": {
+      "A": "Check-off sistemi",
+      "B": "Truck sistemi",
+      "C": "Gantt ücret sistemi",
+      "D": "Akord sistem",
+      "E": "Taylor ücret sistemi"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Akord sistem",
+        "Taylor ücret sistemi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_7",
+    "SORU": "1802 yılında İngiltere’de dokuma sanayiinde kabul edilen kanun çalışan çocukları hangi alanda korumaya çalışmıştır?",
+    "SIKLAR": {
+      "A": "Fesihler",
+      "B": "Günlük çalışma süreleri",
+      "C": "Hafta tatili",
+      "D": "İş sağlığı ve güvenliği",
+      "E": "Yıllık ücret"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Çocuk Hakları",
+        "İş Sağlığı ve Güvenliği"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_8",
+    "SORU": "Aşağıdakilerden hangisi, gelir dağılımı politikası araçlarından biri değildir?",
+    "SIKLAR": {
+      "A": "İşgücü piyasası ve ücret politikaları",
+      "B": "Maliye politikası",
+      "C": "Hukuk politikası",
+      "D": "Eğitim politikası",
+      "E": "Fiyat politikası"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Gelir Dağılımı Politikası",
+        "İşgücü Piyasası ve Ücret Politikaları",
+        "Maliye Politikası",
+        "Hukuk Politikası",
+        "Eğitim Politikası",
+        "Fiyat Politikası"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_9",
+    "SORU": "Yoksulluğu sadece mutlak anlamda bir yaşamı sürdürme meselesi olarak görmeyen, kişi ya da hane halkının sahip olduğu gelir düzeyinin, içinde yaşanılan toplumdaki ortalama gelir düzeyinin gerisinde kalma durumu olarak ifade edilen kavrama ------- denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+    "SIKLAR": {
+      "A": "insani yoksulluk",
+      "B": "gelir yoksulluğu",
+      "C": "göreli yoksulluk",
+      "D": "objektif yoksulluk",
+      "E": "mutlak yoksulluk"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Göreli Yoksulluk"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_10",
+    "SORU": "Aşağıdakilerden hangisi nedenlerine göre ayrımcılık türlerinden biri değildir? Etnik köken, din ve siyasal görüşe dayalı ayrımcılık",
+    "SIKLAR": {
+      "A": "B)",
+      "C": "Ters yönlü ayrımcılık",
+      "D": "Cinsiyet ayrımcılığı",
+      "E": "Engelli ayrımcılığı"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Ters yönlü ayrımcılık",
+        "Cinsiyet ayrımcılığı",
+        "Engelli ayrımcılığı"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_11",
+    "SORU": "\"Sosyal güvenlik\" terim olarak ilk kez aşağıdaki düzenlemelerin hangisinde kullanılmıştır?",
+    "SIKLAR": {
+      "A": "Philadelphia Bildirgesi",
+      "B": "Amerikan Sosyal Güvenlik Kanunu",
+      "C": "Versay Anlaşması",
+      "D": "Atlantik Şartı",
+      "E": "İnsan Hakları Evrensel Bildirisi"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Güvenlik"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_12",
+    "SORU": "Sosyal dışlanma sorununa ilk defa açık bir biçimde yer veren uluslararası anlaşma aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Amsterdam Anlaşması",
+      "B": "Lizbon Anlaşması",
+      "C": "Nice Anlaşması",
+      "D": "Roma Anlaşması",
+      "E": "Maastricht Anlaşması"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Dışlama",
+        " Uluslarası Anlaşma"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_13",
+    "SORU": "Toplumsal yaşamda dil, din, ırk, etnik köken, cinsiyet, cinsel yönelim, engellilik ve yaş gibi nesnel olmayan faktörler temel alınarak birey veya gruplara yöneltilen farklı davranış ve uygulamalara ne ad verilir?",
+    "SIKLAR": {
+      "A": "Eşitsizlik",
+      "B": "Ön yargı",
+      "C": "Sübjektiflik",
+      "D": "Sosyal dışlanma",
+      "E": "Ayrımcılık"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sübjektiflik",
+        "Sosyal dışlanma",
+        "Ayrımcılık"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_14",
+    "SORU": "Bir konfederasyon olan Almanya'nın birleşerek imparatorluğa dönüşmesinde ve devletçi sosyal politikaların kapsamlı bir biçimde uygulanmasında en önemli rolü oynayan ilk şansölyesi kimdir?",
+    "SIKLAR": {
+      "A": "Pinera",
+      "B": "Roosevelt",
+      "C": "Bismarck",
+      "D": "Churchill",
+      "E": "Beveridge"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "Devletçilik",
+        "Konfederasyon",
+        "İmparatorluk",
+        "Sanayi Devrimi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_15",
+    "SORU": "Aşağıdakilerden hangisi, sosyal sigortaların öncelikli olarak kapsama alacağı nüfus kesimi belirlenirken göz önünde bulundurulan faktörlerden biri değildir?",
+    "SIKLAR": {
+      "A": "Teknoloji faktörü",
+      "B": "Baskı grubu faktörü",
+      "C": "Mali imkanlar faktörü",
+      "D": "İhtiyaç faktörü",
+      "E": "İdari imkanlar faktörü"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Teknoloji faktörü",
+        "Baskı grubu faktörü",
+        "Mali imkanlar faktörü",
+        "İhtiyaç faktörü",
+        "İdari imkanlar faktörü"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_16",
+    "SORU": "“Herkes İçin Fırsatlar Yaratan Adil Bir Küreselleşme Raporu” hangi kuruluş tarafından hazırlanmıştır?",
+    "SIKLAR": {
+      "A": "Dünya Sağlık Örgütü",
+      "B": "Dünya Bankası",
+      "C": "Avrupa Sendikalar Konfederasyonu",
+      "D": "Birleşmiş Milletler",
+      "E": "Uluslararası Çalışma Örgütü"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Küreselleşme",
+        "Sosyal Politika"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_17",
+    "SORU": "Kadınlar tarihin her döneminde çalışma yaşamında sürekli olarak yer almıştır. Bununla beraber ücretli işçi olarak çalışma yaşamına girmeleri ilk kez ------- ile olmuştur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+    "SIKLAR": {
+      "A": "Toprağın tarıma açılması",
+      "B": "I. Dünya Savaşının sona ermesi",
+      "C": "Loncaların kurulması",
+      "D": "Sanayi Devrimi",
+      "E": "Büyük Buhran"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Kadın Hareketi",
+        "Sanayi Devrimi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_19",
+    "SORU": "Küreselleşmeyi, mal ve hizmet piyasaları ile birlikte mali piyasaların da bütünleştiği, ulusal ekonomilerin birbirlerine bağımlılıklarının arttığı çok yönlü bir ekonomik bütünleşme süreci olarak tanımlayan uluslararası kuruluş aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Ekonomik Kalkınma ve İşbirliği Örgütü",
+      "B": "Avrupa Konseyi",
+      "C": "Avrupa Birliği",
+      "D": "Dünya Ticaret Örgütü",
+      "E": "Uluslararası Para Fonu"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Küreselleşme",
+        "Ekonomik Bütünleşme",
+        "Mali Piyasalar",
+        "Ulusal Ekonomiler"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_20",
+    "SORU": "İşverenlerin engelli istihdamını sağlamak amacıyla bazı iş ve mesleklerin tamamen veya kısmen engelliler için ayrılması yöntemine ne ad verilir?",
+    "SIKLAR": {
+      "A": "Kota yöntemi",
+      "B": "Destekli istihdam yöntemi",
+      "C": "Teşvik yöntemi",
+      "D": "Tahsis yöntemi",
+      "E": "Engelli çalışma atölyesi yöntemi"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal Politika",
+        "İstihdam",
+        "Engellilik"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "yaz_okulu_2024_cikmis_sorular_21",
+    "SORU": "Küreselleşmeyi, geleneksel kavramlarla açıklanamayan “yeni bir çağın adı” olarak ifade eden yaklaşım aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Aşırı şüpheciler",
+      "B": "Temkinliler",
+      "C": "Şüpheciler",
+      "D": "Dönüşümcüler",
+      "E": "Aşırı küreselleşmeciler"
+    },
+    "CEVAP": "Bilinmiyor",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Küreselleşme",
+        "Çağ"
+      ]
+    }
+  }
+]

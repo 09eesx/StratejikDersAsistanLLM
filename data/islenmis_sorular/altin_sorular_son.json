@@ -1,0 +1,365 @@
+[
+  {
+    "SORU_ID": "AOF_2021_YAZ_1",
+    "SORU": "Üretim faktörü olarak insanı ele alarak işgücü piyasasında istihdam ve ücret konularını inceleyen bilim dalı aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Sanayi ekonomisi",
+      "B": "Kalkınma ekonomisi",
+      "C": "Yeni ekonomi",
+      "D": "Çalışma ekonomisi",
+      "E": "Kamu ekonomisi"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Çalışma ekonomisi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_2",
+    "SORU": "Liberalizme en ciddi ve tutarlı eleştirileri getirerek bilimsel sosyalizmi geliştirilen bilim adamı kimdir?",
+    "SIKLAR": {
+      "A": "Charles Fourier",
+      "B": "Karl Marks",
+      "C": "Robert Owen",
+      "D": "Saint Simon"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Karl Marks"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_3",
+    "SORU": "Jean-Jacques Rousseau Aşağıdakilerden hangisi sosyal politikanın kollektif kendi kendine yardım araçlarından biri değildir?",
+    "SIKLAR": {
+      "A": "Sendikalar",
+      "B": "Bakanlıklar",
+      "C": "Dernekler",
+      "D": "Vakıflar",
+      "E": "Kooperatifler"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Bakanlıklar"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_4",
+    "SORU": "İngiltere’de 1802 yılında, çalışma ilişkilerinin düzenlenmesine ilişkin basit bir uygulama ile başlayan müdahale anlayışı ilk olarak hangi çalışan grubuna yönelik ortaya çıkmıştır?",
+    "SIKLAR": {
+      "A": "Madende çalışan kadınlar",
+      "B": "Sanayide çalışan erkekler",
+      "C": "Sanayide çalışan çocuklar",
+      "D": "Madende çalışan erkekler",
+      "E": "Sanayide çalışan kadınlar"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Mudahale anlayışı",
+        "İngiltere'de 1802 yılında",
+        "Çalışma ilişkilerinin düzenlenmesine ilişkin basit uygulama"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_5",
+    "SORU": "İşçilere normal bir çalışma günü karşılığı ödenen ve işçinin gıda, konut, giyim, sağlık, ulaşım ve kültür gibi zorunlu ihtiyaçlarını günün fiyatları üzerinden en az düzeyde karşılamaya yetecek ücrete ne ad verilir?",
+    "SIKLAR": {
+      "A": "Cari ücret",
+      "B": "Reel ücret",
+      "C": "Ayni ücret",
+      "D": "Çıplak ücret",
+      "E": "Asgari ücret"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Asgari ücret"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_6",
+    "SORU": "Genellikle asgari bir yaşam düzeyini sağlamak için gerekli olan gelir düzeyinin yoksulluk sınırı olarak tanımlandığı yoksulluk türü aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Gelir yoksulluğu",
+      "B": "Toplumsal yoksulluk",
+      "C": "Mutlak yoksulluk",
+      "D": "Göreli yoksulluk",
+      "E": "Objektif yoksulluk"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Gelir yoksulluğu"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_7",
+    "SORU": "Kişilerin kendilerine sağlanan sosyal yardım ve hizmetlerden herhangi bir bedel ya da prim ödemeden yararlanmasına ne ad verilir?",
+    "SIKLAR": {
+      "A": "Kayıtdışı istihdam",
+      "B": "Sosyal sigorta hakkı",
+      "C": "Sosyal destek",
+      "D": "Devlet destekli istihdam",
+      "E": "Primsiz sistem"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Sosyal sigorta hakkı"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_8",
+    "SORU": "Aşağıdakilerden hangisi pasif istihdam politikalarından biridir?",
+    "SIKLAR": {
+      "A": "Doğrudan kamu istihdamı",
+      "B": "C)",
+      "D": "Ücret ve istihdam sübvansiyonları",
+      "E": "Mesleki eğitim programları"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Doğrudan kamu istihdamı"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_9",
+    "SORU": "Cinsel yönelimi, ten rengi veya dini inancı nedeniyle bir kişiyi işe almamak aşağıdaki ayrımcılık türlerinden hangisine örnek olarak verilebilir?",
+    "SIKLAR": {
+      "A": "Sistematik ayrımcılık",
+      "B": "Doğrudan ayrımcılık",
+      "C": "Dolayısıyla ayrımcılık",
+      "D": "Dolaylı ayrımcılık",
+      "E": "Ters yönlü ayrımcılık"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_10",
+    "SORU": "Aşağıdakilerden hangisi sosyal dışlanma türlerinden biri değildir?",
+    "SIKLAR": {
+      "A": "Siyasi dışlanma",
+      "B": "Mutlak dışlanma",
+      "C": "Kültürel dışlanma",
+      "D": "Mekânsal dışlanma",
+      "E": "Ekonomik dışlanma"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Kültürel dışlanma"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_11",
+    "SORU": "Dezavantajlı gruplara uzun süre uygulanan olumlu ayrımcılık uygulamaları nedeniyle toplumda genel olan grubun karşı karşıya kaldığı ayrımcılık türüne ne ad verilir?",
+    "SIKLAR": {
+      "A": "Dolaylı ayrımcılık",
+      "B": "Dolayısıyla ayrımcılık",
+      "C": "Ters yönlü ayrımcılık",
+      "D": "Cinsel taciz",
+      "E": "Açık ayrımcılık"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Ters yönlü ayrımcılık"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_12",
+    "SORU": "Aşağıdakilerden hangisi modern sosyal güvenlik yöntemlerinden biridir?",
+    "SIKLAR": {
+      "A": "Bireysel tasarruflar",
+      "B": "Dini sosyal yardımlar",
+      "C": "Kurumsallaşmış sosyal yardımlar",
+      "D": "Sosyal sigorta",
+      "E": "Tanıma bilme faktörüne bağlı yardımlaşma"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "D"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_13",
+    "SORU": "Sosyal sigortaların özellikleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "SIKLAR": {
+      "A": "Devlet sosyal sigortaların garantörüdür.",
+      "B": "Sosyal sigortaların kapsamına girmek",
+      "C": "Sosyal sigortalar, devlet tarafından kurulan",
+      "D": "Sosyal sigortalarda ödenen primlerle",
+      "E": "Sosyal sigortalar, 19. yüzyılın son çeyreğinde"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "A",
+        "C"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_14",
+    "SORU": "",
+    "SIKLAR": {
+      "A": "Carnot",
+      "B": "Owen",
+      "C": "Beveridge",
+      "D": "Churchill",
+      "E": "Bismarck"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Carnot",
+        "Owen",
+        "Beveridge",
+        "Churchill",
+        "Bismarck"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_15",
+    "SORU": "Kadınlar tarihin her döneminde çalışma yaşamında sürekli olarak yer almıştır. Bununla beraber ücretli işçi olarak çalışma yaşamına girmeleri ilk kez ------- ile olmuştur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+    "SIKLAR": {
+      "A": "Büyük Buhran",
+      "B": "I. Dünya Savaşının sona ermesi",
+      "C": "Loncaların kurulması",
+      "D": "Sanayi Devrimi",
+      "E": "Toprağın tarıma açılması"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "I. Dünya Savaşının sona ermesi"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_16",
+    "SORU": "Türkiye’de engellilere çalıştırma zorunluluğu ilk olarak hangi düzenlemede yer almıştır?",
+    "SIKLAR": {
+      "A": "854 sayılı Deniz İş Kanunu",
+      "B": "931 sayılı İş Kanunu",
+      "C": "1593 sayılı Umumi Hıfzıssıhha Kanunu",
+      "D": "1924 Anayasası"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "1593 sayılı Umumi Hıfzıssıhha Kanunu"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_17",
+    "SORU": "------- göre; geniş anlamda küreselleşme, ekonomik göstergelerle ilgili değişimin yanı sıra küreselleşmenin kültürel, siyasal ve çevre ile ilgili boyutlarını da kapsamaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+    "SIKLAR": {
+      "A": "Uluslararası Çalışma Örgütü'ne",
+      "B": "Avrupa Birliği'ne",
+      "C": "Uluslararası Para Fonu'na",
+      "D": "Dünya Ticaret Örgütü'ne",
+      "E": "Birleşmiş Milletler'e"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Birleşmiş Milletler'e"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_18",
+    "SORU": "Küreselleşme sürecine daha çok taraflı ve dengeli bir bakış açısıyla yaklaşan, küreselleşmeyi nimetleri ve külfetleri; fırsatları ve tehditleri ve nihayet olumlu ve olumsuz sonuçları ile birlikte değerlendirmek gerektiğini ileri süren yaklaşım aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Şüpheciler",
+      "B": "Reformistler",
+      "C": "Piyasacılar",
+      "D": "Dönüşümcüler",
+      "E": "Aşırı küreselleşmeciler"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Dönüşümcüler"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_19",
+    "SORU": "Yaşlıları tanımlamak için kullanılan kavramlar bakımından \"dördüncü çağ\" kavramı kaç yaş üstündekiler için kullanılmaktadır?",
+    "SIKLAR": {
+      "A": "80",
+      "B": "70",
+      "C": "65",
+      "D": "60",
+      "E": "55"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "4. çağ",
+        "65"
+      ]
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_20",
+    "SORU": "“Herkes İçin Fırsatlar Yaratan Adil Bir Küreselleşme Raporu” hangi kuruluş tarafından hazırlanmıştır?",
+    "SIKLAR": {
+      "A": "Uluslararası Çalışma Örgütü",
+      "B": "Avrupa Sendikalar Konfederasyonu",
+      "C": "Dünya Bankası",
+      "D": "Dünya Sağlık Örgütü",
+      "E": "Birleşmiş Milletler"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": [
+        "Uluslararası Çalışma Örgûtü"
+      ]
+    }
+  }
+]

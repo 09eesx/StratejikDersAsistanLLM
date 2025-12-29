@@ -1,0 +1,88 @@
+# Ünite 4: Gelir Dağılımı ve Yoksullukla Mücadele
+
+## Gelir Dağılımı İle İlgili Temel Kavramlar
+
+Gelir dağılımı; belli bir dönemde bir ülkede üretilen gelirlerin kişiler, gruplar ya da üretim faktörleri arasındaki dağılımıdır.
+
+* **Türleri:** Kişisel, Fonksiyonel, Bölgesel, Sektörel, Birincil ve İkincil gelir dağılımı.
+* **Ölçülmesi:** Kişisel gelir dağılımının ölçülmesinde **Lorenz Eğrisi** ve bu eğri yardımıyla hesaplanan **Gini Katsayısı** en önemli araçlardır.
+
+---
+
+## Sosyal Politika Açısından Önemi
+
+* **Tarihsel Süreç:** Feodal düzende mülkiyet eşitsizliği ve adaletsizlikler hakimdi. Sanayileşme ile feodalite bitti ancak 19. yüzyılda kâr artışı işçilerin ekonomik sıkıntılarını ve gelir uçurumunu artırarak sosyal sorunlara/ayaklanmalara yol açtı.
+* **Sosyal Barış:** Gelir dağılımındaki adaletsizlik toplumsal barışı ve güveni zedeler.
+* **Temel İlkeler:** Uygulamada karşımıza çıkan üç temel ilke şunlardır:
+1. Herkes için en az yaşama düzeyinin korunması.
+2. Gelirler arası farklılıkların azaltılması.
+3. Fırsat eşitliğinin sağlanması.
+
+
+
+---
+
+## Gelir Dağılımını Belirleyen Faktörler ve Politika Araçları
+
+**Belirleyen Faktörler:**
+
+1. Demografik faktörler
+2. Piyasa yapısı ve teknolojik gelişme
+3. Üretim faktörlerinin niteliği ve servet dağılımı
+4. Enflasyon ve ekonomik krizler
+5. Bölgesel gelişmişlik farkları ve küreselleşme
+6. Kamu mal ve hizmetlerinin dağılımı
+
+**Politika Araçları:**
+İşgücü piyasası, Ücret, Fiyat, Gelirler, Servet, Maliye (Vergi/Harcama), Eğitim ve Sosyal Güvenlik politikaları.
+
+---
+
+## Dünyada ve Türkiye’de Durum
+
+* **Dünya:** Dünya Bankası, kişi başına düşen milli geliri **Satın Alma Gücü Paritesine** göre hesaplar. Buna göre en zengin ülke **Katar**, en yoksul ülke **Orta Afrika Cumhuriyeti**'dir.
+* **Türkiye:** İlk gelir dağılımı istatistikleri 1987'de sunulmuş, 2002'den itibaren düzenli hale gelmiştir. 2006'dan bu yana AB uyum süreci kapsamında **"Gelir ve Yaşam Koşulları Araştırması"** yapılmaktadır.
+
+---
+
+## Yoksulluk Kavramı ve Ölçülmesi
+
+**Temel Kavramlar:**
+
+1. **Mutlak Yoksulluk - Göreli Yoksulluk:** (Yaşamı sürdürmek için gereken asgari düzey vs. toplumun ortalamasına göre yoksul olma).
+2. **Objektif Yoksulluk - Subjektif Yoksulluk:** (Net standartlara göre vs. kişinin kendini yoksul hissetmesi).
+3. **Gelir Yoksulluğu - İnsani Yoksulluk:** (Parasal yetersizlik vs. eğitim/sağlık/standart eksikliği).
+
+---
+
+## Türkiye’de Yoksulluk
+
+Literatür taraması 1990'larda başlamış, ekonomik krizlerle konu önem kazanmıştır.
+
+* **TÜİK Ölçümleri:** Gıda yoksulluğu, gıda dışı yoksulluk, kişi başı günlük gelir ve harcama esaslı göreli yoksulluk incelenir.
+* **Etkili Faktörler:** Gelir dağılımı, göç, işgücü piyasası, krizler, sosyal güvenlik, eğitim, aile ve dayanışma.
+
+---
+
+## Yoksullukla Mücadele Yaklaşımları
+
+Dünya Bankası'nın 2000-2001 **"Yoksulluğa Saldırı"** raporu, yoksulluğu küresel bir sorun olarak tanımlamıştır.
+
+**Mücadele Yöntemleri:**
+
+1. **Dolaylı Yaklaşım:** Ekonomik büyüme aracılığıyla istihdamı, eğitim ve sağlık hizmetlerini artırmayı hedefler.
+2. **Dolaysız Yaklaşım:** Radikal reformlar, kamu harcamaları ve kaynakların köklü yeniden dağıtımını (sosyal yardım vb.) içerir.
+
+### Mikrokredi Uygulamaları
+
+Resmi bankalara erişimi olmayan yoksullara sağlanan çok küçük meblağlı kredilerdir.
+
+* **Dünya Örneği:** Bangladeş, Hindistan, Latin Amerika vb.
+* **Türkiye Örneği:**
+* **2002:** Kadın Emeğini Değerlendirme Vakfı (Maya İşletmesi) - Marmara deprem bölgesi.
+* **2003:** Türkiye İsraf Önleme Vakfı ve Bangladeşli **Grameen Bank** iş birliği - **Diyarbakır**.
+
+
+* **Güncel Durum:** 46 ilde 67 şubede devam etmektedir. En çok kredi dağıtılan iller: **Diyarbakır, Kahramanmaraş, Gaziantep, Şanlıurfa ve Eskişehir.**
+
+-

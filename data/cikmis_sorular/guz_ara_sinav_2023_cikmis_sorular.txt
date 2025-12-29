@@ -1,0 +1,337 @@
+"""
+
+1."İşgücü piyasasından nitelikli işçi
+sağlanması, istihdam şartlarının işletmenin
+yararına olarak nasıl geliştirilebileceğini ve
+işletmedeki personelin nasıl motive
+edileceği" sosyal politika ile ilişkili sosyal
+bilim dallarından hangisinin bir amacıdır?
+A)
+Hukuk
+B)
+Psikoloji
+C)
+İnsan kaynakları yönetimi
+D)
+Ekonomi
+E)
+Sosyoloji
+
+2.Aşağıdakilerden hangisi ILO'nun temel
+sözleşmelerinden biri değildir?
+
+A)98 sayılı Örgütlenme ve Toplu Sözleşme
+Hakkı Sözleşmesi
+B)
+29 sayılı Zorla Çalıştırma Sözleşmesi
+
+C)105 sayılı Zorla Çalıştırmanın Yasaklanması
+Sözleşmesi
+
+D)182 sayılı Çocuk İşçiliğinin En Kötü Biçimleri
+Sözleşmesi
+
+E)176 sayılı Madenlerde Güvenlik ve Sağlık
+Sözleşmesi
+
+3.Liberalizmin ekonomik ve sosyal etkilerine
+karşı olarak ortaya çıkan ve liberal
+düşüncenin temelinde yer alan bireyciliğe
+karşı, toplumun bireye üstünlüğü
+düşüncesini geliştiren iktisadi düşünce
+aşağıdakilerden hangisidir?
+A)
+Sosyalizm
+B)
+Anarşizm
+C)
+Neo Liberalizm
+D)
+Fizyokrasi
+E)
+Merkantilizm
+
+4.Toplumun bağımlı çalışan, ekonomik yönden
+güçsüz ve özel olarak bakım, gözetim,
+yardım, desteklenme gereksinimi duyan
+kesimlerinin ve grupların karşılaştıkları ya da
+karşılaşabilecekleri risklere, olumsuzluklara
+karşı en geniş biçimde korunmalarına
+yönelik kamusal politikaları konu alan sosyal
+bilim dalına ne ad verilir?
+A)
+İnsan kaynakları yönetimi
+B)
+Sosyoloji
+C)
+Kamu yönetimi
+D)
+Geniş anlamda sosyal politika
+E)
+Sosyal hizmet
+
+5.Sanayi Devrimi ile birlikte ortaya çıkan ağır
+çalışma koşulları, işsizlik, kadın ve
+çocukların sanayide acımasızca
+kullanılmaları, aile birliği ve düzeninin
+bozulması, fabrikalarda yaşanan çatışmalar
+öncelikle aşağıdaki ülkelerin hangisinde
+görülmüştür?
+A)
+Fransa
+B)
+Almanya
+C)
+İngiltere
+D)
+Avusturya
+E)
+İtalya
+
+6.İngiltere'de, sosyal politikanın uluslararası
+boyut kazanmasına yönelik ilk adımlar
+aşağıdakilerin hangisi tarafından atılmıştır?
+A)
+Robert Owen
+B)
+William Beveridge
+C)
+Daniel Legrand
+D)
+George Orwell
+E)
+Adam Smith
+
+7.Aşağıdakilerden hangisi sosyal politikanın
+kollektif kendi kendine yardım araçlarından
+biri değildir?
+A)
+Sendikalar
+B)
+Bakanlıklar
+C)
+Vakıflar
+D)
+Kooperatifler
+E)
+Dernekler
+
+8.İngiltere’de 1802 yılında, çalışma ilişkilerinin
+düzenlenmesine ilişkin basit bir uygulama ile
+başlayan müdahale anlayışı ilk olarak hangi
+çalışan grubuna yönelik ortaya çıkmıştır?
+A)
+Madende çalışan kadınlar
+B)
+Sanayide çalışan çocuklar
+C)
+Sanayide çalışan kadınlar
+D)
+Sanayide çalışan erkekler
+E)
+Madende çalışan erkekler
+
+
+9.Türkiye’de sosyal politika eğitimine ilişkin ilk
+çalışmaları gerçekleştiren, sosyal politikanın
+çeşitli konuları hakkında çok sayıda eser
+veren ve bu alanda birçok bilim insanının
+yetişmesine katkı sağlayan Türk sendikacılık
+hareketlerinin gelişmesi ve 1945 yılından
+itibaren Çalışma Bakanlığı başta olmak üzere
+birçok kurumun oluşumunda önemli katkıları
+olan bilim adamı aşağıdakilerden hangisidir?
+A)
+Fritz Neumark
+B)
+Ernst Hirsch
+C)
+Gerhard Kessler
+D)
+Albert Malche
+E)
+Ernst Reuter
+
+10.İktisadi faaliyetin emek unsurunun tutsaklar
+ve köleler tarafından yerine getirildiği toplum
+düzenine ne ad verilir?
+A)
+Kapitalist toplum düzeni
+B)
+Emperyal toplum düzeni
+C)
+Köleci toplum düzeni
+D)
+Feodal toplum düzeni
+E)
+Komünal toplum düzeni
+
+11.Yoksulluğun ölçülmesinde yaygın olarak
+kullanılan ve yoksulluk çizgisi altındaki
+kişilerin toplam nüfusa oranını gösteren
+yöntem aşağıdakilerden hangisidir?
+A)
+Yoksulluk açığı oranı
+B)
+FGT endeksi
+C)
+Sen endeksi
+D)
+Yoksulluk açığının karesi oranı
+E)
+Kafa sayısı endeksi
+
+12.Ne zaman ortaya çıkacağı bilinmemekle
+birlikte ileride gerçekleşmesi muhtemel ya da
+muhakkak olan ve buna maruz kalan kişinin
+mal varlığında eksilmeye neden olan
+tehlikeye ne ad verilir?
+A)
+Sosyal risk
+B)
+Kaza
+C)
+İş kazası
+D)
+Sosyal güvenlik
+E)
+İş riski
+
+13.Ücretlendirme sırasında sadece yapılacak iş
+göz önünde bulundurulmadan, teknik ve
+ekonomik bir rasyonellikten uzak, insancıl
+değerleri dikkate alarak belirlenen ücret
+aşağıdakilerden hangisidir?
+A)
+Asgari ücret
+B)
+Çıplak ücret
+C)
+Nakdi ücret
+D)
+Net ücret
+E)
+Sosyal ücret
+
+14.Gelirin ücret, faiz, rant ve kâr arasında nasıl
+dağıldığını gösteren gelir dağılımı türü
+aşağıdakilerden hangisidir?
+A)
+Fonksiyonel gelir dağılımı
+B)
+Kişisel gelir dağılımı
+C)
+Bölgesel gelir dağılımı
+D)
+Sektörel gelir dağılımı
+E)
+Toplumsal gelir dağılımı
+
+15.İşçilere normal bir çalışma günü karşılığı
+ödenen ve işçinin gıda, konut, giyim, sağlık,
+ulaşım ve kültür gibi zorunlu ihtiyaçlarını
+günün fiyatları üzerinden en az düzeyde
+karşılamaya yetecek ücrete ne ad verilir?
+A)
+Çıplak ücret
+B)
+Asgari ücret
+C)
+Reel ücret
+D)
+Ayni ücret
+E)
+Cari ücret
+
+16.Asgari geçim düşüncesine dayanan ve
+kişilerin ya da hane halklarının asgari geçim
+düzeyinin altında olma durumunu ifade eden
+yoksulluk türü aşağıdakilerden hangisidir?
+A)
+İnsani yoksulluk
+B)
+Mutlak yoksulluk
+C)
+Toplumsal yoksulluk
+D)
+Göreli yoksulluk
+E)
+Objektif yoksulluk
+
+
+17.Aşağıdakilerden hangisi pasif istihdam
+politikalarından biridir?
+A)
+Ücret sübvansiyonları
+B)
+Doğrudan kamu istihdamı
+C)
+Mesleki eğitim programları
+D)
+Çalışma sürelerinin kısaltılması
+
+E)Girişimciliğin desteklenmesine yönelik
+programlar
+
+18.Bütün gelirlerle ilgili gelişmelere bu
+gelirlerin doğuşu esnasında doğrudan etki
+etmeyi amaçlayan hükümet politikalarına ne
+ad verilir?
+A)
+Maliye politikası
+B)
+Ücret politikası
+C)
+Fiyat politikası
+D)
+Gelirler politikası
+E)
+Sosyal güvenlik politikası
+
+19.Türkiye’de yoksulluğun boyutlarına ilişkin
+aşağıdaki ifadelerden hangisi yanlıştır?
+
+A)Eğitim düzeyi yükseldikçe yoksulluk oranları
+azalmaktadır.
+
+B)Kırsal kesimde yoksulluk kente göre çok
+daha ciddi boyutlardadır.
+
+C)2017 yılından 2020 yılına kadar olan süreçte
+yoksulluk oranları artmıştır.
+
+D)Hane halkı büyüklüğüne paralel olarak
+yoksulluk oranı azalmaktadır.
+
+E)Çalışan yoksulların oranı, genel yoksulluk
+oranına oldukça yakındır.
+
+20.4857 sayılı İş Kanununa göre,
+aşağıdakilerden hangisi ücretin tanımıdır?
+
+A)İnsan emeğinin bir bedeli olarak
+tanımlanırken; genel anlamda ise
+işletmelerin kâr ve zararına bağlı olmayan,
+işveren tarafından emek sahibine üretilen
+malın satışı beklenmeden ödenen, miktarı
+önceden belirlenmiş gelirdir.
+
+B)Gelir temin etmek amacıyla sarf edilen fikri
+ve bedeni enerji anlamındaki emeğin değeri
+ve karşılığıdır.
+
+C)Bir iş karşılığında işveren tarafından işçiye
+saat başına, gündelik, haftalık, on beş
+günlük veya aylık olarak ödenen para ve
+para ile belirlenebilen malların ve hizmetlerin
+oluşturduğu bir gelirdir.
+
+D)Emeğin değeri ve karşılığı olmakla birlikte
+piyasa arz-talep kanunlarına göre uygulanan
+ve bir fiyat olarak bir mala ödenen bedeldir.
+
+E)Bir kimseye bir iş karşılığında işveren veya
+üçüncü kişiler tarafından sağlanan ve para
+ile ödenen tutardır.
+
+"""

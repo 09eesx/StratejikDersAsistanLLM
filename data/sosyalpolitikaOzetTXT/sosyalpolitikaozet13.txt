@@ -1,0 +1,113 @@
+# Ünite 5: Sosyal Güvenlik ve Sosyal Sigortalar
+## Sosyal Güvenlik Kavramı
+
+Sosyal güvenlik terimi ilk kez **1935** tarihli **Amerikan Sosyal Güvenlik Kanunu’nda (The Social Security Act)** kullanılmıştır. 1941 Atlantik Şartı, 1948 BM İnsan Hakları Evrensel Bildirgesi ve ILO belgeleriyle yaygınlaşmıştır.
+
+* **Tanım:** Toplumu oluşturan tüm fertlerin uğrayacakları tehlikelerin zararlarından kurtarılma garantisidir.
+* **Mekanizma:** Özünde bir **gelir transferi** yatar (Gençlikten yaşlılığa, sağlıktan hastalığa, çalışma döneminden çalışılamayan döneme yapılan transfer).
+
+### Sosyal Güvenlikte Tehlikeler ve Sınıflandırma
+
+**1. Kaynağına Göre (4 Grup):**
+
+* Fizyolojik tehlikeler.
+* Tabii afetlerden kaynaklanan tehlikeler.
+* Sosyo-ekonomik tehlikeler.
+* İnsanların sebep olduğu tehlikeler.
+
+**2. ILO 102 Sayılı Sözleşme'ye Göre (9 Tehlike):**
+Hastalık, iş kazaları ve meslek hastalıkları, analık, malullük, yaşlılık, ölüm, işsizlik ve aile gelirinin yetersizliği (çocuk sayısı).
+
+**3. Süresine Göre:**
+
+* **Kısa Vadeli:** Hastalık, analık, işsizlik, iş kazaları.
+* **Uzun Vadeli:** Malullük, yaşlılık, ölüm.
+
+---
+
+## Sosyal Güvenlik Teknikleri ve Yöntemleri
+
+### Geleneksel (Bireysel) Yöntemler
+
+Sanayi Devrimi öncesi yaygın olan; bireysel tasarruflar, aile içi yardımlaşma, dini sosyal yardımlar ve kurumsallaşmış sosyal yardımları kapsar.
+
+### Modern Yöntemler (Sanayi Devrimi Sonrası)
+
+1. **Sosyal Sigorta Yöntemi:** Prim esasına dayanır.
+2. **Kamu Sosyal Güvenlik Harcamaları:** Devletçe korunma yöntemi.
+
+### Tamamlayıcı Yöntemler
+
+Zorunlu sistemlerin üzerine ilave koruma sağlayan yöntemlerdir:
+
+* Özel sigortalar (Hayat, kaza, bireysel emeklilik).
+* Yardımlaşma sandıkları (**OYAK, İLKSAN** vb.).
+
+---
+
+## Sosyal Sigortalar ve Bismarck Modeli
+
+İlk sosyal sigortalar 19. yüzyılın sonunda **Almanya'da Otto Von Bismarck** tarafından kurulmuştur.
+
+* **Süreç:** 1883 Hastalık -> 1884 İş Kazaları -> 1889 Malullük, Yaşlılık ve Ölüm sigortaları.
+* **Temel Özellikleri:** Kamu sigortası olması, devletin garantörlüğü, **zorunluluk**, primle finansman (finansmana katılım), özerk yönetim ve geliri yeniden dağıtma ilkesi.
+
+### Sosyal Sigorta ve Özel Sigorta Farkları
+
+| Özellik | Sosyal Sigorta | Özel Sigorta |
+| --- | --- | --- |
+| **Katılım** | Zorunlu | İsteğe Bağlı |
+| **Hukuki Temel** | Kanun | Sözleşme Serbestisi |
+| **Devletin Rolü** | Kurucu ve Garantör | Düzenleyici ve Denetleyici |
+| **Prim Ödeyen** | Sigortalı, İşveren, Devlet | Esas olarak Sigortalı |
+| **Koruma Birimi** | Aile | Fert |
+| **İlişki** | Prim-Hak ilişkisi zayıf (Sosyal denge) | Prim-Hak ilişkisi bire bir |
+
+---
+
+## Sosyal Sigorta Kolları ve Sağlanan Haklar
+
+### 1. Hastalık
+
+Kısa vadeli ve geçici bir risktir. Tıbbi bakımın yanı sıra gelir kesilmesini önlemeye yönelik garantiler sağlar.
+
+### 2. İş Kazaları ve Meslek Hastalıkları
+
+İşyerinde veya işverenin otoritesi altındayken meydana gelen kazalar/hastalıklardır.
+
+* **Sağlananlar:** Sağlık hizmetleri, geçici iş göremezlik ödeneği, sürekli kısmi/tam gelir, ölüm halinde hak sahiplerine aylık ve cenaze masrafları.
+
+### 3. Analık
+
+Çalışan kadın sigortalılara doğum öncesi ve sonrası dönemde (genelde gelirin %50-70'i oranında) iş göremezlik ödeneği verilir.
+
+### 4. Malullük
+
+Çalışma gücünün bedenen/ruhen sürekli olarak kaybedilmesi (genellikle **%60 ve üzeri** kayıp).
+
+### 5. Yaşlılık
+
+En çok harcama yapılan koldur. Emeklilik yaşı ortalama hayat ümidine göre belirlenir. Ağır işlerde çalışanlara erken emeklilik hakkı tanınabilir.
+
+### 6. Ölüm
+
+Korum birimi ailedir. Sigortalının ölmeden önce geçimini sağladığı kişilere (eş, çocuk, ana-baba) garanti sağlar.
+
+### 7. İşsizlik
+
+Çalışma iradesine sahip olup iş bulamama halidir.
+
+* **Şartlar:** Belirli süre prim ödemek (1-3 yıl), kendi isteği dışında işten çıkmak.
+* **Süre:** 6 ay ile 2 yıl arası değişir.
+
+### 8. Bakım Sigortası
+
+Bakım ihtiyacı olanlara sunulan hizmetler veya nakdi ödemelerdir:
+
+* Uzmanlarca periyodik bakım.
+* Bakım parası (aileye veya kişiye).
+* Araç-gereç yardımı ve yatılı bakım hizmetleri.
+
+---
+
+**Not:** ILO verilerine göre dünya nüfusunun yalnızca **%20'si** yeterli sosyal güvenlik garantisine sahiptir. Bu nedenle ILO, **"Herkes İçin Sosyal Güvenlik"** kampanyasını yürütmektedir.

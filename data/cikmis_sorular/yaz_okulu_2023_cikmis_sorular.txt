@@ -1,0 +1,333 @@
+2023 yaz okulu
+"""
+
+1.Toplumun bağımlı çalışan, ekonomik yönden
+güçsüz ve özel olarak bakım, gözetim,
+yardım, desteklenme gereksinimi duyan
+kesimlerinin ve grupların karşılaştıkları ya da
+karşılaşabilecekleri risklere, olumsuzluklara
+karşı en geniş biçimde korunmalarına
+yönelik kamusal politikaları konu alan sosyal
+bilim dalına ne ad verilir?
+A)
+Geniş anlamda sosyal politika
+B)
+Sosyal hizmet
+C)
+Sosyoloji
+D)
+Kamu yönetimi
+E)
+İnsan kaynakları yönetimi
+
+2.Feodal Dönem Batı Avrupa’sında işledikleri
+toprak ve üretim araçları üzerinde sadece
+kullanım hakkına sahip olan, çalışmaları
+karşılığında elde ettikleri tarımsal ürünün bir
+bölümünü kendi ihtiyaçlarına yönelik
+tüketirken, büyük bir bölümünü ise güvenlik
+gereksinimlerini sağlayan kişilere aktaran
+toplumsal gruba ne ad verilir?
+A)
+Serf
+B)
+Zanaatkarlar
+C)
+Köle
+D)
+Burjuvalar
+E)
+Parya
+
+3.İşçilerin barınma yerlerinin temini, çalışma
+süreleri, dinlenme sürelerinin çalışma
+süreleri dışında tutulması, Hristiyan işçilerin
+kendi dinî günlerinde izin verilmesi gibi
+uygulamalar aşağıdaki düzenlemelerden
+hangisi ile gerçekleştirilmiştir?
+A)
+Tanzimat Fermanı
+B)
+Mecelle
+C)
+Maadin Nizamnamesi
+D)
+Ereğli Maadin-i Humayun Teamülnamesi
+E)
+Polis Nizamı
+
+4.Milletler Cemiyeti’nin dağılmasından sonra
+1944 yılında ILO’nun amaçlarının yeniden
+belirlendiği düzenleme aşağıdakilerden
+hangisidir?
+A)
+Sanayide Çalışma Süreleri Sözleşmesi
+B)
+İşsizlik Sözleşmesi
+C)
+Filedelfiya Bildirgesi
+Adil Bir Küreselleşme İçin Sosyal Adalet
+Bildirgesi
+D)
+E)
+İş Yerinde Temel İlkeler ve Haklar Bildirgesi
+
+5.Geçici, konjonktürel ve yapısal faktörler
+nedeniyle bir işgücü piyasasında yüzde yüz
+istihdamın sağlanamaması ve işgücünün
+küçük bir bölümünün işsiz olması durumuna
+ne ad verilir?
+A)
+Dar anlamda istihdam
+B)
+Eksik istihdam
+C)
+Eksik işgücü
+D)
+Genel istihdam
+E)
+Doğal işsizlik oranı
+
+6.Alınması gereken günlük kalori miktarı ya da
+yapılan tüketim harcamaları gibi tespit edilebilir
+ve doğruluğu kanıtlanabilir bir standardın ya da
+standartlar setinin aşağısında kalma durumuna
+------- denir.
+Yukarıdaki cümlede boş bırakılan yeri
+aşağıdakilerden hangisi doğru şekilde
+tamamlar?
+A)
+mutlak yoksulluk
+B)
+insani yoksulluk
+C)
+objektif yoksulluk
+D)
+göreli yoksulluk
+E)
+gelir yoksulluğu
+
+7.Kişisel gelir dağılımı eşitsizliğinin ölçülmesi
+için kullanılan eğriye ne ad verilir?
+A)
+Beveridge eğrisi
+B)
+Farksızlık eğrisi
+C)
+Laffer eğrisi
+D)
+Lorenz eğrisi
+E)
+Philips eğrisi
+
+8.Aşağıdakilerden hangisi Sanayi Devriminin
+yol açtığı sonuçlardan biri değildir?
+A)
+Çalışma sürelerinin artması
+Üretimin fabrikalardan atölyelere doğru
+kayması
+B)
+C)
+Kadınların çalışma yaşamına girmesi
+D)
+Çocukların çalışma yaşamına girmesi
+E)
+Ücretlerin düşmesi
+
+9.Aşağıdakilerden hangisi sosyal sigortaların
+öncelikle kapsama alacağı nüfus kesimi ve
+çalışan grubunu belirlerken göz önünde
+bulundurduğu faktörlerden biri değildir?
+A)
+Ödeme gücü faktörü
+B)
+İhtiyaç faktörü
+C)
+İdari imkanlar faktörü
+D)
+Hukuki faktörler
+E)
+Politik faktörler
+
+10.Aşağıdakilerden hangisi sosyal dışlanma
+riski yüksek olan kişi ve gruplardan biri
+değildir?
+A)
+Kadınlar
+B)
+Göçmenler
+C)
+Vasıflı işçiler
+D)
+Engelliler
+E)
+Toprak sahibi olmayanlar
+
+11.Sosyal dışlanma sorununa ilk defa açık bir
+biçimde yer veren uluslararası anlaşma
+aşağıdakilerden hangisidir?
+A)
+Roma Anlaşması
+B)
+Maastricht Anlaşması
+C)
+Lizbon Anlaşması
+D)
+Amsterdam Anlaşması
+E)
+Nice Anlaşması
+
+12.ILO'nun Sosyal Güvenliğin Asgari Normlarına
+İlişkin 102 sayılı Sözleşmesi’nde, bir ülkede
+sosyal güvenlik sisteminin varlığından
+bahsedebilmek için oluşturulan
+sosyal güvenlik sisteminin, bağımlı
+çalışanların yani işçilerin en az yüzde kaçını
+kapsamına alması gerekmektedir?
+A)
+20
+B)
+30
+C)
+40
+D)
+50
+E)
+70
+
+13.Bir konfederasyon olan Almanya'nın
+birleşerek imparatorluğa dönüşmesinde ve
+devletçi sosyal politikaların kapsamlı bir
+biçimde uygulanmasında en önemli rolü
+oynayan ilk şansölyesi kimdir?
+A)
+Bismarck
+B)
+Beveridge
+C)
+Roosevelt
+D)
+Pinera
+E)
+Churchill
+
+
+14.I. Ekonomik
+II. Kültürel
+III. Siyasi
+IV. Mekânsal
+Yukarıdakilerden hangisi/hangileri sosyal
+dışlanma biçimlerindendir?
+A)
+Yalnız I
+B)
+I ve II
+C)
+II ve III
+D)
+I, II ve III
+E)
+I, II, III ve IV
+
+15.------- göre; küreselleşme, insanlık tarihinin
+kaçınılmaz olarak yaşanacak bir safhasıdır.
+Dünya çapında ekonomilerin ve toplumların
+bütünleşme sürecini ifade eder. Küreselleşme
+yalnızca bir mal ve hizmet ticareti artışı değildir.
+Haberleşme teknolojisi ve bilgi paylaşımı ile bilgi,
+enformasyon ve kültürün de bütünleşmesi
+sürecidir.
+Yukarıdaki cümlede boş bırakılan yeri
+aşağıdakilerden hangisi doğru olarak
+tamamlar?
+A)
+Dünya Bankası'na
+B)
+Dünya Ticaret Örgütü'ne
+C)
+Avrupa Birliği'ne
+D)
+Uluslararası Çalışma Örgütü'ne
+E)
+Birleşmiş Milletler'e
+
+16.Uluslararası alanda, çocukların çalıştırılma
+yaşı, çalışma süreleri ve iş sağlığı ve
+güvenliğine ilişkin konularda temenni
+niteliğinde kararların alındığı ilk toplantı
+aşağıdakilerden hangisidir?
+A)
+1783 Paris Anlaşması
+B)
+1890 Berlin Konferansı
+C)
+1912 Londra Konferansı
+D)
+1913 Bükreş Anlaşması
+E)
+1919 Versay Barış Anlaşması
+
+17.Kadın işgücünü korumak amacıyla, metalürji,
+araba, kimya gibi ağır sanayilerdeki
+gelişmelere bağlı olarak kadın işgücü
+kullanımının geçici bir süre sınırlandığı
+dönem aşağıdakilerden hangisidir?
+A)
+XIII. yüzyılın başları
+B)
+XIII. yüzyılın ortaları
+C)
+XIII. yüzyılın sonları
+D)
+XIX. yüzyılın başları
+E)
+XIX. yüzyılın sonları
+
+18.Aşağıdakilerden hangisi küreselleşmenin
+göstergelerinden biri değildir?
+A)
+Çok uluslu şirketlerin büyümesi
+
+B)Haberleşme ve ulaşım maliyetlerinin
+düşmesi ve iletişimin artışı
+
+C)Uluslararası mal ve hizmet ticaretinin
+artması
+
+D)Uluslararası sermaye hareketleri ve
+yatırımların artışı
+
+E)Ulus devletin ekonomideki hakim rolünün
+öne çıkması
+
+19.Küreselleşmeyi, geleneksel kavramlarla
+açıklanamayan “yeni bir çağın” olarak
+adlandıran yaklaşım aşağıdakilerden
+hangisidir?
+A)
+Temkinliler
+B)
+Aşırı küreselleşmeciler
+C)
+Aşırı şüpheciler
+D)
+Şüpheciler
+E)
+Dönüşümcüler
+
+20.ILO'nun 138 sayılı İstihdama Kabulde Asgari
+Yaş Sözleşmesi’ne göre en az çalıştırılma
+yaşı kaçtır?
+A)
+13
+B)
+14
+C)
+15
+D)
+16
+E)
+17
+"""
+
+

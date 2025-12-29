@@ -1,0 +1,317 @@
+"""
+
+1.Mülkiyet ve egemenliğin birbirine katıldığı,
+siyasal iktidar ile ekonomik iktidarın aynı
+kişide birleştiği ve dönemin üretim yapısı
+kadar yönetim yapısını da ifade eden kavram
+aşağıdakilerden hangisidir?
+A)
+Korporasyon
+B)
+Feodalite
+C)
+Merkezi krallık
+D)
+Otokrasi
+E)
+Aristokrasi
+
+2.Liberalizmin ekonomik ve sosyal etkilerine
+karşı olarak ortaya çıkan ve liberal
+düşüncenin temelinde yer alan bireyciliğe
+karşı, toplumun bireye üstünlüğü
+düşüncesini geliştiren iktisadi düşünce
+aşağıdakilerden hangisidir?
+A)
+Neo Liberalizm
+B)
+Fizyokrasi
+C)
+Anarşizm
+D)
+Sosyalizm
+E)
+Merkantilizm
+
+3.Sosyal politikanın uluslararası araçlarından
+en önemlisi aşağıdakilerden hangisidir?
+A)
+Birleşmiş Milletler Tarım ve Gıda Örgütü
+B)
+Ekonomik İşbirliği ve Kalkınma Teşkilatı
+C)
+Avrupa Birliği
+D)
+Uluslararası Çalışma Örgütü
+E)
+Dünya Sağlık Örgütü
+
+4.Aşağıdakilerden hangisi sosyal politikanın
+kollektif kendi kendine yardım araçlarından
+biri değildir?
+A)
+Bakanlıklar
+B)
+Sendikalar
+C)
+Kooperatifler
+D)
+Vakıflar
+E)
+Dernekler
+
+5.Çalışan ücretlerinin standart para yerine, mal
+veya para yerine geçen kâğıt kuponlar
+şeklinde ödendiği sisteme ne ad verilir?
+A)
+Check-off sistemi
+B)
+Truck sistemi
+C)
+Gantt ücret sistemi
+D)
+Akord sistem
+E)
+Taylor ücret sistemi
+
+6.1802 yılında İngiltere’de dokuma sanayiinde
+kabul edilen kanun çalışan çocukları hangi
+alanda korumaya çalışmıştır?
+A)
+Fesihler
+B)
+Günlük çalışma süreleri
+C)
+Hafta tatili
+D)
+İş sağlığı ve güvenliği
+E)
+Yıllık ücret
+
+7.Aşağıdakilerden hangisi, gelir dağılımı
+politikası araçlarından biri değildir?
+A)
+İşgücü piyasası ve ücret politikaları
+B)
+Maliye politikası
+C)
+Hukuk politikası
+D)
+Eğitim politikası
+E)
+Fiyat politikası
+
+8.Yoksulluğu sadece mutlak anlamda bir yaşamı
+sürdürme meselesi olarak görmeyen, kişi ya da
+hane halkının sahip olduğu gelir düzeyinin, içinde
+yaşanılan toplumdaki ortalama gelir düzeyinin
+gerisinde kalma durumu olarak ifade edilen
+kavrama ------- denir.
+Yukarıdaki cümlede boş bırakılan yeri
+aşağıdakilerden hangisi doğru şekilde
+tamamlar?
+A)
+insani yoksulluk
+B)
+gelir yoksulluğu
+C)
+göreli yoksulluk
+D)
+objektif yoksulluk
+E)
+mutlak yoksulluk
+
+
+9.Aşağıdakilerden hangisi nedenlerine göre
+ayrımcılık türlerinden biri değildir?
+Etnik köken, din ve siyasal görüşe dayalı
+ayrımcılık
+A)
+B)
+Yaş ayrımcılığı
+C)
+Ters yönlü ayrımcılık
+D)
+Cinsiyet ayrımcılığı
+E)
+Engelli ayrımcılığı
+
+10."Sosyal güvenlik" terim olarak ilk kez
+aşağıdaki düzenlemelerin hangisinde
+kullanılmıştır?
+A)
+Philadelphia Bildirgesi
+B)
+Amerikan Sosyal Güvenlik Kanunu
+C)
+Versay Anlaşması
+D)
+Atlantik Şartı
+E)
+İnsan Hakları Evrensel Bildirisi
+
+11.Sosyal dışlanma sorununa ilk defa açık bir
+biçimde yer veren uluslararası anlaşma
+aşağıdakilerden hangisidir?
+A)
+Amsterdam Anlaşması
+B)
+Lizbon Anlaşması
+C)
+Nice Anlaşması
+D)
+Roma Anlaşması
+E)
+Maastricht Anlaşması
+
+12.Toplumsal yaşamda dil, din, ırk, etnik köken,
+cinsiyet, cinsel yönelim, engellilik ve yaş gibi
+nesnel olmayan faktörler temel alınarak birey
+veya gruplara yöneltilen farklı davranış ve
+uygulamalara ne ad verilir?
+A)
+Eşitsizlik
+B)
+Ön yargı
+C)
+Sübjektiflik
+D)
+Sosyal dışlanma
+E)
+Ayrımcılık
+
+13.Bir konfederasyon olan Almanya'nın
+birleşerek imparatorluğa dönüşmesinde ve
+devletçi sosyal politikaların kapsamlı bir
+biçimde uygulanmasında en önemli rolü
+oynayan ilk şansölyesi kimdir?
+A)
+Pinera
+B)
+Roosevelt
+C)
+Bismarck
+D)
+Churchill
+E)
+Beveridge
+
+14.Aşağıdakilerden hangisi, sosyal sigortaların
+öncelikli olarak kapsama alacağı
+nüfus kesimi belirlenirken göz önünde
+bulundurulan faktörlerden biri değildir?
+A)
+Teknoloji faktörü
+B)
+Baskı grubu faktörü
+C)
+Mali imkanlar faktörü
+D)
+İhtiyaç faktörü
+E)
+İdari imkanlar faktörü
+
+15.“Herkes İçin Fırsatlar Yaratan Adil Bir
+Küreselleşme Raporu” hangi kuruluş
+tarafından hazırlanmıştır?
+A)
+Dünya Sağlık Örgütü
+B)
+Dünya Bankası
+C)
+Avrupa Sendikalar Konfederasyonu
+D)
+Birleşmiş Milletler
+E)
+Uluslararası Çalışma Örgütü
+
+16.Kadınlar tarihin her döneminde çalışma
+yaşamında sürekli olarak yer almıştır. Bununla
+beraber ücretli işçi olarak çalışma yaşamına
+girmeleri ilk kez ------- ile olmuştur.
+Yukarıdaki cümlede boş bırakılan yeri
+aşağıdakilerden hangisi doğru olarak
+tamamlar?
+A)
+Toprağın tarıma açılması
+B)
+I. Dünya Savaşının sona ermesi
+C)
+Loncaların kurulması
+D)
+Sanayi Devrimi
+E)
+Büyük Buhran
+
+
+17.Çalıştırılma yaşını en az 15 olarak kabul eden
+ve üye ülkelere belirli koşulların varlığı
+halinde en az çalıştırılma yaşını bu yaşın
+altında belirleyebilmeleri konusunda esneklik
+tanıyan ILO Sözleşmesi aşağıdakilerden
+hangisidir?
+
+A)138 sayılı İstihdama Kabulde Asgari Yaş
+Sözleşmesi
+B)29 sayılı Zorla Çalıştırma Sözleşme
+
+C)182 sayılı Çocuk İşçiliğinin En Kötü Biçimleri
+Sözleşmesi
+
+D)6 sayılı Gençlerin Sanayide Gece Çalışması
+Sözleşmesi
+
+E)124 sayılı Gençlerin Tıbbi Muayenesi
+Sözleşmesi
+
+18.Küreselleşmeyi, mal ve hizmet piyasaları ile
+birlikte mali piyasaların da bütünleştiği,
+ulusal ekonomilerin birbirlerine
+bağımlılıklarının arttığı çok yönlü bir
+ekonomik bütünleşme süreci olarak
+tanımlayan uluslararası kuruluş
+aşağıdakilerden hangisidir?
+A)
+Ekonomik Kalkınma ve İşbirliği Örgütü
+B)
+Avrupa Konseyi
+C)
+Avrupa Birliği
+D)
+Dünya Ticaret Örgütü
+E)
+Uluslararası Para Fonu
+
+19.İşverenlerin engelli istihdamını sağlamak
+amacıyla bazı iş ve mesleklerin tamamen
+veya kısmen engelliler için ayrılması
+yöntemine ne ad verilir?
+A)
+Kota yöntemi
+B)
+Destekli istihdam yöntemi
+C)
+Teşvik yöntemi
+D)
+Tahsis yöntemi
+E)
+Engelli çalışma atölyesi yöntemi
+
+20.Küreselleşmeyi, geleneksel kavramlarla
+açıklanamayan “yeni bir çağın adı” olarak
+ifade eden yaklaşım aşağıdakilerden
+hangisidir?
+A)
+Aşırı şüpheciler
+B)
+Temkinliler
+C)
+Şüpheciler
+D)
+Dönüşümcüler
+E)
+Aşırı küreselleşmeciler
+
+
+
+"""

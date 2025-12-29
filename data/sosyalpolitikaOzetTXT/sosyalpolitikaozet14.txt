@@ -1,0 +1,74 @@
+# Ünite 6: Sosyal Dışlanma ve Ayrımcılık
+
+## Sosyal Dışlanma
+
+Sosyal dışlanma; toplumla bireyin sosyal bütünleşmesini sağlayan sosyal, ekonomik ve siyasi sistemlerin tümünden kısmen veya tamamen yoksun olma dinamik sürecini ifade eder. Bireyin toplumla bütünleşmesini sağlayan medeni, siyasi, ekonomik ve sosyal haklara ulaşamamasıdır. Temel gereksinimlerin karşılanamamasından, toplumla bağların kopmasına kadar uzanan bir süreci kapsar.
+
+### Tarihsel Gelişim ve Ülke Örnekleri
+
+* **Fransa:** Kavram ilk kez 1960’larda kullanıldı. 1974’te Rene Lenoir, "Les Exclus" (Dışlanmışlar) adlı kitabında, dışlanmışları ekonomik büyümenin sonuçlarından yararlanamayanlar olarak tanımladı. Nüfusun %10’unun dışlanmış olduğunu belirtti. 1990’larda Fransa Devlet Planlama Örgütü bu konuda geniş çalışmalar yaptı.
+* **İngiltere:** Çalışmalar 1990’ların başında İşçi Partisi hükümetiyle başladı. 1997’de "Sosyal Dışlanma Birimi" kuruldu.
+* **ABD:** Sosyal dışlanma yerine **"Sınıfaltı" (Underclass)** kavramı kullanılır. Bu kavram; yoksulluktan ziyade yasa dışılık, uyuşturucu kullanımı, evlilik dışı çocuklar, işsizlik ve okul başarısızlığını ifade eder. En çok etkilenenler; siyahlar, yasa dışı göçmenler (Orta/Latin Amerikalılar), Asyalılar ve Kuzey Amerika yerlileridir.
+
+### Sosyal Dışlanmanın Nedenleri
+
+* **İngiltere Sosyal Dışlanma Birimi (Yapısal Nedenler):**
+1. **Ekonomik ve Sosyal:** Endüstriyel yeni yapılanma, aile yapısında değişim, toplumsal parçalanma.
+2. **Hükümet/Kurum Başarısızlıkları:** Mülkiyetin belirsizliği, sosyal yardım fazlalığı, kamu politikalarının beklenmeyen ters etkileri, eşgüdüm yetersizliği, yetersiz veri analizi, hak ve sorumluluk bağının kopması.
+
+
+* **AB Komisyonu (Kurumsal/Yapısal Nedenler):**
+1. İşgücü piyasasındaki değişim (Küreselleşme, teknoloji, yeniden yapılanma).
+2. Bilgi teknolojisindeki gelişmeler ve bilgi toplumunun genişlemesi.
+3. Sosyo-demografik değişiklikler (Yaşlanma, düşük doğum oranı, aile yapısı değişimi, göç, etnik/dini farklılıklar).
+4. Bölgesel ve coğrafi ön yargılar ile kutuplaşmalar.
+
+
+
+### Risk Grupları ve Dışlanma Biçimleri
+
+* **Risk Grupları:** İşsizler, vasıfsızlar, yoksullar, toprak sahipleri olmayanlar, okuma yazma bilmeyenler, engelliler, suçlular, tek ebeveynli aileler, diplomasız gençler, kadınlar, göçmenler, mülteciler ve azınlıklar.
+* **Dışlanma Biçimleri:**
+1. **Ekonomik Dışlanma:** Temel gereksinimleri karşılayacak gelirden yoksunluk; işsizlik, kayıt dışı veya standart dışı çalışma.
+2. **Mekânsal Dışlanma:** Yaşanılan coğrafya nedeniyle ayrımcılığa uğrama veya kamu hizmetlerinin nicelik/nitelik yetersizliği nedeniyle topluma katılamama.
+3. **Kültürel Dışlanma:** Ekonomiden bağımsız olarak; din, mezhep, etnik köken veya cinsel yönelim nedeniyle toplumsal yaşama katılamama.
+4. **Siyasi Dışlanma:** Vatandaşlık, hukuki ve siyasi hakları kullanamama; siyasi yaşama katılımın engellenmesi.
+
+
+
+### Uluslararası Kuruluşlar ve Politikalar
+
+* **Kuruluşlar:** ILO, UNDP, WHO, UNESCO.
+* **AB Süreci:** 1990'da Sosyal Dışlanmayla Mücadelede Ulusal Politikalar Gözlemevi kuruldu. 2000 Lizbon Zirvesi ile mücadele gerçek anlamda başladı. 2000 Nice Zirvesi'nde "Sosyal Politika Gündemi" belirlendi. "Sosyal Dışlanma ile Mücadele Ortak Eylem Programı" oluşturuldu. 2010'da "Avrupa 2020: Akıllı, Sürdürülebilir ve Kapsayıcı Büyüme Stratejisi" yayımlandı.
+* **Asgari Gelir Desteği:** Yoksullara asgari yaşam standardı garantisi verir. AB ülkelerinde yaygındır; Güney Afrika ve Brezilya'da da uygulanır.
+* **Fransa Örneği:** 25 yaş üstü, belirli süre Fransa'da yaşayan ve yoksulluk sınırı altındakilere yardım yapılır.
+* **Çalıştırma (Workfare - ABD/Avustralya):** Yardım alabilmek için kamu kurumunun gösterdiği işte çalışma zorunluluğudur. Çalışmayanların yardımı kesilir.
+
+---
+
+## Ayrımcılık
+
+Ayrımcılık; toplumsal yaşamda dil, din, ırk, etnik köken, cinsiyet, cinsel yönelim, engellilik ve yaş gibi nesnel olmayan faktörler temel alınarak yapılan uygulamalardır. İlk olarak 1878'de Anglo-Sakson hukukunda bir mahkeme kararında kullanılmıştır.
+
+### Ayrımcılık Türleri
+
+* **Doğrudan Ayrımcılık:** Benzer durumdaki birine göre daha az olumlu davranılması (Örn: İşe alımda din/ırk nedeniyle reddetmek).
+* **Dolaylı Ayrımcılık:** Herkese eşit uygulanan bir kuralın bir grup üzerinde orantısız olumsuz etki yaratması (Örn: Gereksiz yere ehliyet şartı koyarak kadınları elemek).
+* **Dolayısıyla Ayrımcılık:** Başka birinin (eş, arkadaş vb.) nitelikleri nedeniyle kişinin ayrımcılığa uğraması.
+* **Taciz:** Kişinin onurunu zedeleyen, düşmanca ve aşağılayıcı bir ortam yaratılması.
+* **Cinsel Taciz:** Kişinin rızası olmadan yapılan sözlü veya fiziksel sarkıntılıklar.
+* **Olumlu Ayrımcılık:** Dezavantajlı grupların topluma dahil edilmesi için lehine yapılan uygulamalar.
+* **Diğer:** Sistematik, çoklu ve ters yönlü ayrımcılık.
+
+### Ayrımcılık Alanları ve Örnekler
+
+* **Etnik ve Dini:** ABD'de siyahlar, İngiltere'de Asyalılar, Fransa'da Kuzey Afrikalılar, Yunanistan'da Makedonlar ve Batı Trakya Türkleri, İrlanda'da Protestanlar, Kuzey İrlanda'da Katolikler. 11 Eylül sonrası Müslümanların yaşadığı ayrımcılık.
+* **Engelli Ayrımcılığı:** Engellinin engelli olmayandan az ilgi görmesi (doğrudan) veya engellinin başa çıkamayacağı durumlarla haksızlığa uğraması (dolaylı).
+* **Yaş Ayrımcılığı:** Gençlerin deneyimsizlik, yaşlıların ise verimlilik düşüklüğü ve yeniliğe kapalılık iddiasıyla dışlanması.
+
+### Hukuki Düzenlemeler
+
+* **Uluslararası:** BM İnsan Hakları Evrensel Bildirgesi (Md. 1), BM Irk Ayrımcılığının Ortadan Kaldırılması Sözleşmesi, ILO belgeleri, Avrupa Konseyi protokolleri. AB: 1957 Roma Antlaşması (Md. 119 - Ücret eşitliği, Md. 7 - Vatandaşlık temelinde ayrımcılık yasağı).
+* **Türk Hukuku:** 1924'ten beri tüm anayasalarda yer almıştır.
+* **1982 Anayasası (Md. 10):** Kanun önünde eşitlik (Dil, ırk, renk, cinsiyet, din, mezhep vb. nedenlerle ayrım gözetilemez).
+* **4857 Sayılı İş Kanunu (Md. 5):** "Eşit Davranma İlkesi". Doğrudan ve dolaylı ayrımcılık kavramları ilk kez bu kanunla mevzuata girmiştir.

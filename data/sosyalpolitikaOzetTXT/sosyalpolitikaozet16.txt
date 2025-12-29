@@ -1,0 +1,70 @@
+
+# Ünite 8: Küreselleşme
+
+Küreselleşme, 1980’li yılları takip eden dönemde iktisadi, sosyal, siyasi ve kültürel gelişmeleri izah etmek için kullanılan bir "fenomen" hâline gelmiştir. İngilizce "globalization" kelimesinden türetilen bu terim; dünya çapında, herkesi ilgilendiren, evrensel bir değişim-dönüşüm sürecini ve insanlar arasındaki karşılıklı bağımlılığın artmasını ifade eder.
+
+### Kurumsal Tanımlar
+
+* **Dünya Bankası:** İnsanlık tarihinin kaçınılmaz bir safhasıdır.
+* **IMF:** Bütün ülkelerin daha yüksek hayat standardı için gerçekleştirmek zorunda oldukları istikrarlı ekonomik büyüme hedefi sürecidir.
+* **OECD:** Ulusal ekonomilerin birbirine bağımlılığının arttığı çok yönlü ekonomik bütünleşmedir.
+* **Birleşmiş Milletler (BM):** Küresel bütünleşmenin ve karşılıklı bağımlılığın artmasıdır.
+* **ILO:** Sosyal sorunları derinleştiren ve eşitsizlikleri artıran etkileri de olan bir süreçtir.
+
+---
+
+## Küreselleşme Yaklaşımları
+
+Literatürde küreselleşmeye bakış açısı üç ana grupta toplanmaktadır:
+
+### Aşırı Küreselleşmeciler
+
+Küreselleşmeyi geleneksel kavramlarla açıklanamayan "yeni bir çağın" adı olarak görürler. Bu grup içinde; sürecin herkesin refahını artıracağını savunan iyimserler ile bu düzenin sadece "elit bir azınlığın" yararına olduğunu savunanlar mevcuttur.
+
+### Şüpheciler
+
+Küreselleşmenin ekonomik boyutuna odaklanırlar ve bu sürecin yeni olmadığını, I. Dünya Savaşı öncesi dönemle (19. yy son çeyreği) benzerlik gösterdiğini ileri sürerler. Şüphecilere göre küreselleşme dünya çapında tam bir bütünleşme sağlamamış, ekonomik faaliyetler belirli bölgelerde (OECD gibi) yoğunlaşmıştır. Ayrıca ulus devleti ve sosyal devleti zayıflattığını savunurlar.
+
+### Dönüşümcüler
+
+Küreselleşmeye daha dengeli ve çok taraflı bakarlar. Süreci; nimetleri-külfetleri, fırsatları-tehditleri ile bir bütün olarak değerlendirirler. Küreselleşmenin kaçınılmaz bir teslimiyet değil, olumsuz sonuçlarını gidermek için müdahale edilmesi ve yönetilmesi gereken bir süreç olduğunu savunurlar.
+
+---
+
+## Küreselleşmenin Ortaya Çıkışı ve Faktörleri
+
+Ortaya çıkışa dair iki temel görüş vardır:
+
+1. **Tarihsel Görüş:** 15. yüzyıl keşiflerine veya Sanayi Devrimi'ne dayandıranlar olsa da, daha yaygın olanı 19. yüzyılın son çeyreğindeki hızlı üretim ve ticaret artışını başlangıç kabul eder.
+2. **Modern Görüş (1980 sonrası):** Küreselleşmenin asıl olarak 1980’lerde başladığını savunur. Bu süreci tetikleyen unsurlar:
+* Neoliberal ekonomi politikaları.
+* Haberleşme teknolojileri ve internetin yaygınlaşması.
+* Soğuk Savaş'ın sona ermesi ve Doğu Bloğu'nun Batı ile bütünleşmesi.
+* Uluslar üstü kuralların hakim kılınması.
+
+
+
+---
+
+## Küreselleşmenin Sosyal Politika ve İstihdam Üzerindeki Etkileri
+
+Küreselleşme, sosyal devlet uygulamalarında daralmaya ve yeni sorunların ortaya çıkmasına neden olmuştur:
+
+* **Eşitsizlik ve Yoksulluk:** Gelir dağılımı hem ülkeler arasında hem de ülke içinde bozulmuştur. 2008 krizi gibi finansal krizler işsizliği küreselleştirmiştir.
+* **Ulus Devletin Dönüşümü:** Devletler yabancı sermayeyi çekmek için sosyal haklarda kısıntıya gitmiş, özelleştirme ve kuralsızlaştırma politikalarını benimsemiştir.
+* **Esneklik ve Atipik İstihdam:** Rekabet baskısı; taşeronlaşmayı, kısmi süreli çalışmayı, evde veya uzaktan çalışmayı (atipik istihdam) yaygınlaştırmıştır.
+* **İnformel (Kayıt Dışı) Sektör:** Düşük ücretli, sosyal güvencesiz ve uzun çalışma süreli işlerin olduğu kayıt dışı sektör genişlemiştir.
+* **Sendikalaşma:** Özelleştirmeler, esnek çalışma ve "üretimi kaydırma" tehditleri sendikaların gücünü ve toplu pazarlık kapsamını daraltmıştır.
+* **Sosyal Güvenlik:** Devletin sosyal güvenlik yükümlülüğü bireylere aktarılmaya çalışılmış, özel sigorta sistemleri teşvik edilmiştir.
+
+---
+
+## Adil Bir Küreselleşme (ILO Şartları)
+
+ILO'ya göre sosyal yönü güçlü bir küreselleşme için şu şartlar gereklidir:
+
+* İnsan haklarına ve kültürel farklılıklara saygı.
+* "İnsana yaraşır iş" (Decent Work) hedefi.
+* Demokratik ve etkin işleyen bir devlet.
+* Sürdürülebilir gelişme ve çevrenin korunması.
+* Dayanışmacı ve diyalog odaklı mekanizmaların varlığı.

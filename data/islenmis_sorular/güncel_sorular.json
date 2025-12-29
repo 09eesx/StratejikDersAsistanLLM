@@ -1,0 +1,305 @@
+[
+  {
+    "SORU_ID": "AOF_2021_YAZ_1",
+    "SORU": "1936 yılında yazdığı “İstihdam, Faiz ve Paranın Genel Teorisi” adlı eserinde, klasik iktisat anlayışına önemli eleştiriler getirerek ve liberal çizgiden ödünler vermiş olan iktisatçı kimdir?",
+    "SIKLAR": {
+      "A": "Keynes",
+      "B": "Friedman",
+      "C": "Fisher",
+      "D": "Hayek",
+      "E": "Mill"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_2",
+    "SORU": "Sanayi Devrimi’nin ortaya çıkardığı kötü çalışma koşullarına karşı işçileri ve emeği sermayeye karşı korumak ve bu yolla toplumdaki sınıf çatışmalarını önleyerek toplumun ve devletin varlığını sürdürmesini sağlamaya yönelik uygulamalara kavramsal açıdan ne ad verilir?",
+    "SIKLAR": {
+      "A": "Sosyal yardım",
+      "B": "Geniş anlamda sosyal politika",
+      "C": "Sosyal sigorta",
+      "D": "Sosyal güvenlik",
+      "E": "Dar anlamda sosyal politika"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_3",
+    "SORU": "Sanayi Devrimi'nin yaşandığı yıllarda, emek sahiplerinin elde ettiği ücret gelirinin temel ihtiyaçlar düzeyini karşılamakta yeterli olmadığı en düşük ücret düzeyine ne ad verilir?",
+    "SIKLAR": {
+      "A": "Sosyal ücret",
+      "B": "Sefalet ücreti",
+      "C": "Kök Ücret",
+      "D": "Temel ücret",
+      "E": "Asgari ücret"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_4",
+    "SORU": "Aşağıdakilerden hangisi, liberalizmin ekonomik ve sosyal etkilerine karşı bir fikir olarak ortaya çıkan sosyalizm temsilcilerinden biri değildir?",
+    "SIKLAR": {
+      "A": "Charles Fourier",
+      "B": "Saint Simon",
+      "C": "Robert Owen",
+      "D": "Robert Thomas Malthus",
+      "E": "Karl Marks"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_5",
+    "SORU": "Yukarıdakilerden hangileri uluslararası sosyal politika araçlarındandır?",
+    "SIKLAR": {
+      "A": "I ve II",
+      "B": "I ve IV",
+      "C": "I, II ve III",
+      "D": "II, III ve IV",
+      "E": "II, III, IV ve V"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_6",
+    "SORU": "Beslenme, çocuk ölüm oranları, eğitimde geçirilen süre, çocukların kayıt altına alınması, yemek pişirme olanakları, tuvalet, su, elektrik, zemin döşemesi ve sahip olunan mal varlıkları göstergelerinden oluşan endeks aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Lorenz Eğrisi",
+      "B": "İnsanî Yoksulluk Endeksi",
+      "C": "Kafa Eğrisi",
+      "D": "Gini Katsayısı",
+      "E": "Çok Boyutlu Yoksulluk Endeksi"
+    },
+    "CEVAP": "E",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_8",
+    "SORU": "Çalışanın; verimliliği, eğitim düzeyi, kıdemi gibi unsurları dikkate almaksızın kararlaştırılan ödemenin belirli bir süre çalışılması sonunda hak edildiği ücret sistemi aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Miktar esasına dayalı ücret sistemi",
+      "B": "Götürü ücret sistemi",
+      "C": "Zaman esasına dayalı ücret sistemi",
+      "D": "Verimlilik esasına dayalı ücret sistemi"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_9",
+    "SORU": "Performansa dayalı ücret sistemi Aşağıdakilerden hangisi pasif istihdam politikalarından biridir?",
+    "SIKLAR": {
+      "A": "Doğrudan kamu istihdamı",
+      "B": "Mesleki eğitim programları",
+      "C": "İş paylaşımı",
+      "D": "Ücret ve istihdam sübvansiyonları",
+      "E": "Girişimciliğin desteklenmesine yönelik"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_10",
+    "SORU": "Alınması gereken günlük kalori miktarı ya da yapılan tüketim harcamaları gibi tespit edilebilir ve doğruluğu kanıtlanabilir bir standardın ya da standartlar setinin aşağısında kalma nedeniyle ortaya çıkan yoksulluğa ne ad verilir?",
+    "SIKLAR": {
+      "A": "Göreli yoksulluk",
+      "B": "Sübjektif yoksulluk",
+      "C": "Mutlak yoksulluk",
+      "D": "Objektif yoksulluk",
+      "E": "İnsani yoksulluk"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_11",
+    "SORU": "Üretim sürecine katılan üretim faktörleri tarafından yaratılan gelirin serbest piyasa ekonomisine hiçbir müdahale olmaksızın dağılımına ne ad verilir?",
+    "SIKLAR": {
+      "A": "Müdahale öncesi gelir dağılımı",
+      "B": "İkincil gelir dağılımı",
+      "C": "Birincil gelir dağılımı",
+      "D": "Fonksiyonel gelir dağılımı",
+      "E": "Düzenli gelir dağılımı"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_12",
+    "SORU": "Avrupa Birliği sosyal dışlanma sorununa ilk olarak aşağıdaki belgelerden hangisinde açık bir biçimde yer vermiştir?",
+    "SIKLAR": {
+      "A": "Sosyal Dışlanma Protokolü",
+      "B": "AB Anayasası",
+      "C": "Roma Antlaşması",
+      "D": "Sosyal Politika Antlaşması",
+      "E": "Amsterdam Antlaşması"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_13",
+    "SORU": "Meydana getiren faktörler (sebepler) açısından hastalık, ne tür bir tehlike (risk) olarak kabul edilir?",
+    "SIKLAR": {
+      "A": "Sosyo-ekonomik",
+      "B": "Fizyolojik",
+      "C": "İnsanların sebep olduğu",
+      "D": "Tabii afetlerden kaynaklanan",
+      "E": "Ekonomik"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_14",
+    "SORU": "Ayrımcılık yasağına ilişkin Birleşmiş Milletler’e ait ilk düzenleme aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Birleşmiş Milletler Anlaşması",
+      "B": "İnsan Hakları Evrensel Bildirgesi",
+      "C": "Ekonomik Sosyal ve Kültürel Haklar",
+      "D": "Her Türlü Irk Ayrımcılığının Ortadan",
+      "E": "Kaldırılmasına İlişkin Uluslararası Sözleşme"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_15",
+    "SORU": "Medeni ve Siyasi Haklar Sözleşmesi Sosyal dışlanma kavramı ilk olarak hangi ülkede kullanılmıştır?",
+    "SIKLAR": {
+      "A": "Fransa",
+      "B": "İngiltere",
+      "C": "Almanya",
+      "D": "Rusya",
+      "E": "ABD"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_16",
+    "SORU": "Sosyal sigortaların en son kurulan sigorta kolu aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "Malullük",
+      "B": "Yaşlılık",
+      "C": "Hastalık",
+      "D": "İşsizlik",
+      "E": "Ölüm"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_17",
+    "SORU": "Aşağıdakilerden hangisi sosyal sigortaların özelliklerinden biri değildir?",
+    "SIKLAR": {
+      "A": "Ödenen primlerle sağlanan haklar arasında",
+      "B": "Devletin sosyal sigortaların garantörü olması",
+      "C": "Yönetimine sosyal tarafların da katılması",
+      "D": "Sosyal sigortalara katılmanın zorunlu olması",
+      "E": "Devlet tarafından kurulan bir sigorta"
+    },
+    "CEVAP": "D",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_18",
+    "SORU": "Birleşmiş Milletler, kendi vatandaşı olduğu ülkeden başka bir ülkede bir yıl ve daha fazla süre kalan kişilere ------- adı verir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+    "SIKLAR": {
+      "A": "sığınmacı",
+      "B": "göçmen",
+      "C": "ilticacı",
+      "D": "kaçak",
+      "E": "mülteci"
+    },
+    "CEVAP": "A",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_19",
+    "SORU": "Düşük ücret, uzun çalışma süreleri ve ağır çalışma koşulları altında çalıştırılmalarının toplumsal tepkilere neden olması üzerine aşağıdaki ülkelerin hangisinden başlamak üzere kadınların çalışma yaşamında özel olarak korunmaları ile ilgili hukuki düzenlemeler yapılmaya başlanmıştır?",
+    "SIKLAR": {
+      "A": "Almanya",
+      "B": "İsveç",
+      "C": "İngiltere",
+      "D": "Küba",
+      "E": "ABD"
+    },
+    "CEVAP": "B",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  },
+  {
+    "SORU_ID": "AOF_2021_YAZ_20",
+    "SORU": "Yaşlılığın tanımlanmasında göreli daha fazla kullanılan kavram aşağıdakilerden hangisidir?",
+    "SIKLAR": {
+      "A": "İleri yaşlılık",
+      "B": "Biyolojik yaşlılık",
+      "C": "Yasal yaşlılık",
+      "D": "Orta yaşlılık",
+      "E": "Kronik Yaşlılık"
+    },
+    "CEVAP": "C",
+    "METADATA": {
+      "unite_no": null,
+      "kavramlar": []
+    }
+  }
+]
