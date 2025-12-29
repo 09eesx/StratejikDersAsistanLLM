@@ -111,7 +111,8 @@ Bu proje, Anadolu Üniversitesi Açıköğretim Fakültesi (AÖF) öğrencilerin
 
 ## 🧩 Kullanım Akışı
 
-![Akış Şeması](./docs/akış_semasi.png)
+![ChatGPT Image 29 Ara 2025 04_45_59](https://github.com/user-attachments/assets/3490a599-17c2-40b4-a703-b00379f9ca16)
+
 **Açıklama:**
 
 1. **Veri Toplama:** Çıkmış sorular, ders kitapları, özetler ve tuzak kavramlar.
