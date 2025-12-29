@@ -1,0 +1,16 @@
+langchain>=0.1.0
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-core
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+PyPDF2
+pypdf
+matplotlib
+seaborn
+plotly
+streamlit
